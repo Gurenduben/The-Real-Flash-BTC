@@ -1,3 +1,2 @@
-# The-Real-Flash-BTC
-Flashing/Generating Unlimited Bitcoin 
+#The Real Flash Bitcoin 
 Forget about all those useless scam softwares that don't work i'm developing a python script for generating unlimited bitcoin so we can get rich. COMING SOON.......
